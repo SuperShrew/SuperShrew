@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SuperShrew
+- 👀 I’m interested in unity and python
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on not much
+- 📫 How to reach me joshua.gerrish@outlook.com
