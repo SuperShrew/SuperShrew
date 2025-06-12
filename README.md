@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SuperShrew
-- 👀 I’m interested in unity and python, and making text based games (for now)
-- 🌱 I’m currently learning more python
-- 📫 How to reach me joshua.gerrish@outlook.com
+- 👀 I’m interested in web development and python, and making text based games (for now)
+- 🌱 I’m currently learning more python and php
+- 📫 How to reach me: joshua.gerrish@outlook.com
